@@ -1,0 +1,5 @@
+﻿  project312.cpp
+C:\Users\mcdad\source\repos\project312\project312\project312.cpp(170,28): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\mcdad\source\repos\project312\project312\project312.cpp(232,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mcdad\source\repos\project312\project312\project312.cpp(463,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  project312.vcxproj -> C:\Users\mcdad\source\repos\project312\Debug\project312.exe

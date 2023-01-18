@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\mcdad\source\repos\Classes\Classes\Main.cpp(9,1): error C2144: syntax error: 'int' should be preceded by ';'
+  Classes.cpp
+C:\Users\mcdad\source\repos\Classes\Classes\Classes.cpp(9,14): error C2065: 'coord': undeclared identifier
+C:\Users\mcdad\source\repos\Classes\Classes\Classes.cpp(18,9): error C2065: 'x': undeclared identifier
+C:\Users\mcdad\source\repos\Classes\Classes\Classes.cpp(22,2): error C2065: 'y': undeclared identifier
+C:\Users\mcdad\source\repos\Classes\Classes\Classes.cpp(26,9): error C2065: 'y': undeclared identifier
+C:\Users\mcdad\source\repos\Classes\Classes\Classes.cpp(30,22): error C2065: 'x': undeclared identifier
+C:\Users\mcdad\source\repos\Classes\Classes\Classes.cpp(30,36): error C2065: 'y': undeclared identifier
+  Generating Code...

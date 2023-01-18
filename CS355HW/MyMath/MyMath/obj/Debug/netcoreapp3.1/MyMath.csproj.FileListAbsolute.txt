@@ -1,0 +1,10 @@
+C:\Users\mcdad\source\repos\MyMath\MyMath\bin\Debug\netcoreapp3.1\MyMath.deps.json
+C:\Users\mcdad\source\repos\MyMath\MyMath\bin\Debug\netcoreapp3.1\MyMath.dll
+C:\Users\mcdad\source\repos\MyMath\MyMath\bin\Debug\netcoreapp3.1\MyMath.pdb
+C:\Users\mcdad\source\repos\MyMath\MyMath\obj\Debug\netcoreapp3.1\MyMath.csproj.AssemblyReference.cache
+C:\Users\mcdad\source\repos\MyMath\MyMath\obj\Debug\netcoreapp3.1\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcdad\source\repos\MyMath\MyMath\obj\Debug\netcoreapp3.1\MyMath.AssemblyInfoInputs.cache
+C:\Users\mcdad\source\repos\MyMath\MyMath\obj\Debug\netcoreapp3.1\MyMath.AssemblyInfo.cs
+C:\Users\mcdad\source\repos\MyMath\MyMath\obj\Debug\netcoreapp3.1\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\mcdad\source\repos\MyMath\MyMath\obj\Debug\netcoreapp3.1\MyMath.dll
+C:\Users\mcdad\source\repos\MyMath\MyMath\obj\Debug\netcoreapp3.1\MyMath.pdb

@@ -1,0 +1,5 @@
+1, 4.99, 9.98, power cable
+4, 16.88, 135.04, basic headphones
+3, 9.98, 59.88, USB mouse
+2, 228.75, 915, TV
+Total: 915

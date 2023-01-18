@@ -1,0 +1,3 @@
+﻿  ClassMatrix.cpp
+C:\Users\mcdad\source\repos\ClassMatrix\ClassMatrix\ClassMatrix.cpp(59,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ClassMatrix.vcxproj -> C:\Users\mcdad\source\repos\ClassMatrix\Debug\ClassMatrix.exe

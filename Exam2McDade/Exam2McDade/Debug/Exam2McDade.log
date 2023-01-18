@@ -1,0 +1,5 @@
+﻿  Exam2McDade.cpp
+C:\Users\mcdad\source\repos\Exam2McDade\Exam2McDade\Exam2McDade.cpp(34,16): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mcdad\source\repos\Exam2McDade\Exam2McDade\Exam2McDade.cpp(39,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\mcdad\source\repos\Exam2McDade\Exam2McDade\Exam2McDade.cpp(43,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Exam2McDade.vcxproj -> C:\Users\mcdad\source\repos\Exam2McDade\Debug\Exam2McDade.exe

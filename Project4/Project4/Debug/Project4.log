@@ -1,0 +1,3 @@
+﻿  Project4.cpp
+C:\Users\mcdad\source\repos\Project4\Project4\Project4.cpp(19,28): warning C4101: 'total': unreferenced local variable
+  Project4.vcxproj -> C:\Users\mcdad\source\repos\Project4\Debug\Project4.exe

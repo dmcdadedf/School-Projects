@@ -1,0 +1,12 @@
+﻿  HashImplement.cpp
+  Main.cpp
+C:\Users\mcdad\source\repos\AlgorithmsProjectRevised\AlgorithmsProjectRevised\Main.cpp(66,28): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\mcdad\source\repos\AlgorithmsProjectRevised\AlgorithmsProjectRevised\Main.cpp(124,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+Main.obj : error LNK2005: "void __cdecl dumpTable(struct nodeType * * const)" (?dumpTable@@YAXQAPAUnodeType@@@Z) already defined in HashImplement.obj
+Main.obj : error LNK2005: "void __cdecl emptyTable(struct nodeType * * const)" (?emptyTable@@YAXQAPAUnodeType@@@Z) already defined in HashImplement.obj
+Main.obj : error LNK2005: "int __cdecl findTable(struct nodeType * * const,int)" (?findTable@@YAHQAPAUnodeType@@H@Z) already defined in HashImplement.obj
+Main.obj : error LNK2005: "int __cdecl hashFn(int)" (?hashFn@@YAHH@Z) already defined in HashImplement.obj
+Main.obj : error LNK2005: "void __cdecl initializeTable(struct nodeType * * const)" (?initializeTable@@YAXQAPAUnodeType@@@Z) already defined in HashImplement.obj
+Main.obj : error LNK2005: "void __cdecl insertTable(struct nodeType * * const,int)" (?insertTable@@YAXQAPAUnodeType@@H@Z) already defined in HashImplement.obj
+C:\Users\mcdad\source\repos\AlgorithmsProjectRevised\Debug\AlgorithmsProjectRevised.exe : fatal error LNK1169: one or more multiply defined symbols found
